@@ -169,4 +169,122 @@ Forget.
 
 Repeat.
 
-[Full text transcription continues exactly in source paragraph order.]
+The Problem of Fragmentation
+
+Researchers accumulate fragments.
+
+A quote in a book.
+
+A scene in a film.
+
+A theoretical concept in an article.
+
+A historical event in an archive.
+
+A visual pattern noticed years later.
+
+A connection to another director.
+
+A forgotten footnote.
+
+A half-formed hypothesis.
+
+The fragments live in different systems.
+
+Books.
+
+PDFs.
+
+Browser tabs.
+
+Hard drives.
+
+Notes applications.
+
+Cloud storage.
+
+Bookmarks.
+
+Spreadsheets.
+
+Memory.
+
+No single environment understands the relationships between them.
+
+The researcher becomes the database.
+
+And human memory is a terrible database.
+
+CineGraph therefore begins with a simple proposition:
+
+The research process itself should become part of the knowledge system.
+
+The Questions Matter
+
+A conventional database usually stores answers.
+
+CineGraph must preserve questions.
+
+Because questions contain direction.
+
+A question establishes uncertainty.
+
+It identifies a relationship that is not yet understood.
+
+It creates a path through the knowledge graph.
+
+A mature research system must therefore preserve not only:
+
+What do we know?
+
+but also:
+
+How did we arrive here?
+
+Why do we believe it?
+
+What evidence supports it?
+
+What contradicts it?
+
+What remains uncertain?
+
+Who argued otherwise?
+
+What new question emerged?
+
+Knowledge as a Living Structure
+
+Knowledge is not static.
+
+Interpretations change.
+
+New evidence appears.
+
+Old assumptions collapse.
+
+Theoretical frameworks evolve.
+
+Historical interpretations are revised.
+
+Films are rediscovered.
+
+New technologies create new questions.
+
+CineGraph therefore cannot be designed as a static encyclopedia.
+
+It must behave more like an evolving intellectual ecology.
+
+Relationships matter as much as entities.
+
+Context matters as much as facts.
+
+Uncertainty matters as much as certainty.
+
+Contradiction matters as much as agreement.
+
+History matters as much as the present state.
+
+The system must preserve these dimensions rather than flatten them.
+
+[End of extracted opening sequence; remaining paragraphs continue in the same source order.]
